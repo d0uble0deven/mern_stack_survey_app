@@ -12,3 +12,5 @@ passport.use(new GoogleStrategy({
     console.log(profile)
 })
 )
+
+// mongoose.connect(keys.mongoURI);
