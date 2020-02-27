@@ -1,7 +1,7 @@
 const passport = require('passport')
 
 // JWPZ1hmFnjjkvZkQ
-// mongodb+srv://dev-prod:<password>@cluster0-s1zr0.mongodb.net/test?retryWrites=true&w=majority
+// mongodb+srv://dev-prod:JWPZ1hmFnjjkvZkQ@cluster0-s1zr0.mongodb.net/test?retryWrites=true&w=majority
 
 module.exports = (app) => {
 
