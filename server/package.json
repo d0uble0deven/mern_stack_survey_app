@@ -8,7 +8,7 @@
     "npm": "5.0.3"
   },
   "scripts": {
-    "start": "node server/index",
+    "start": "node server/index.js",
     "dev": "nodemon server"
   },
   "author": "",
